@@ -10,7 +10,7 @@
 	<artifactId>as7.remoting.connector</artifactId>
 	<version>${project.parent.version}</version>
 	<packaging>jar</packaging>
-	<name>AS7 Remoting Connector Client Sample</name>
+	<name>AS7 Remoting Connector Sample</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
